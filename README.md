@@ -1,0 +1,2 @@
+# Wechat_sync_material
+微信公众账号素材管理接口的上传永久素材功能
